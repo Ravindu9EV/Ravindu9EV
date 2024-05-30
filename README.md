@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yasantha Ravindu and I'm an enthusiast Developer from <br>Sri Lanka</h2>
+<h2 align="left">Hi 👋! My name is Yasantha Ravindu.I'm an enthusiast Developer from <br>Sri Lanka</h2>
 
 ###
 
