@@ -27,11 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-
+###
 
 <img align="right" height="150" src="https://img.shoplineapp.com/media/image_clips/5c2daede544fa500188cffb5/original.gif?1546497757"  />
 
-
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yasantha-ravindu-992796217/" target="_blank">
@@ -48,15 +48,15 @@
 
 
 <br clear="both">
-
+###
 <img src="https://raw.githubusercontent.com/Ravindu9EV/Ravindu9EV/output/snake.svg" alt="Snake animation" />
 
 
-
+###
 <div align="center">
   <img height="200" src="https://miro.medium.com/max/1400/0*-u0b7K0Q6zfBcQqT.gif"  />
 </div>
 
 
-
+###
 
