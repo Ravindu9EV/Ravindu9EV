@@ -1,8 +1,7 @@
-
- <h2 align="left">Hi 👋! My name is Yasantha Ravindu.I'm an enthusiastic Full-Stack Developer from <br>Sri Lanka.Check out my projects and feel free to connect with me!
+<h2 align="left">Hi 👋! My name is Yasantha Ravindu.I'm an enthusiastic Full-Stack Developer from <br>Sri Lanka.Check out my projects and feel free to connect with me!
 </h2>
-
 ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindu9EV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Ravindu9EV&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -45,18 +44,16 @@
   </a>
 </div>
 
-
+###
 
 <br clear="both">
-###
+
 <img src="https://raw.githubusercontent.com/Ravindu9EV/Ravindu9EV/output/snake.svg" alt="Snake animation" />
 
-
 ###
+
 <div align="center">
   <img height="200" src="https://miro.medium.com/max/1400/0*-u0b7K0Q6zfBcQqT.gif"  />
 </div>
 
-
 ###
-
