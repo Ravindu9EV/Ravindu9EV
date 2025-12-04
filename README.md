@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yasantha Ravindu.I'm an enthusiastic Full-Stack Developer from <br>Sri Lanka.Check out my projects and feel free to connect with me!
-</h2>
+<h2 align="left">Hi 👋! My name is Yasantha Ravindu.I'm an enthusiastic Full-Stack Developer from <br>Sri Lanka.Check out my projects and feel free to connect with me!</h2>
 ###
 
 <div align="center">
