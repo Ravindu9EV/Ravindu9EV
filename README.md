@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Developer Intern<br>👯 I’m looking to collaborate on Software Projects.An I'm eager to make Ideas into realprojects<br>🤝 <br>🌱 I’m currently expanding my experience and knowladge about Software Development and AI<br>
+🔭 I’m currently working as a Full-Stack Developer Intern<br>👯 I’m looking to collaborate on Software Projects.An I'm eager to make Ideas into real projects<br>🤝 <br>🌱 I’m currently expanding my experience and knowladge about Software Development and AI<br>
 
 
 ## 🌐 Socials:
