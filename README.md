@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Developer Intern<br>👯 I’m looking to collaborate on Software Projects.An I'm eager to make Ideas into real projects<br>🤝 <br>🌱 I’m currently expanding my experience and knowladge about Software Development and AI<br>
+🔭 I’m currently looking for Full-Stack Developer Intern/associate roles.<br>👯 I’m looking to collaborate on Software Projects.An I'm eager to make Ideas into real projects<br>🤝 <br>🌱 I’m currently expanding my experience and knowladge about Software Development and AI.Also I completed my Degree, Software Engineering (BSc Hons) at  KIU<br>
 
 
 ## 🌐 Socials:
